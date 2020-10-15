@@ -1,0 +1,21 @@
+
+.screen {
+    background-color: gainsboro;
+    height: 80px;
+    /* width: 90%; */
+    margin-bottom: 2px;
+    font-size: 60px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+
+.screen div {
+    margin-right: 3%;
+    overflow-x: scroll;
+}
+
+.AllTouche-wrapper {
+    display: flex;
+}
+
