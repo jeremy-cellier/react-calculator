@@ -50,7 +50,7 @@ class Screen extends React.Component{
         </div>
         <div className="AllTouche-wrapper">
             <TouchesList obj={this} />
-            <Operator obj={this}/>
+            <Operator obj={this} />
         </div>
     </div>
     )};
